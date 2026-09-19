@@ -90,6 +90,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="lc8-html">
       <head>
+        <meta name="yandex-verification" content="cb2c736ae5d0a97b" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
