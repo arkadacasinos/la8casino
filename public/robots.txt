@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+Sitemap: https://la8casino.vercel.app/sitemap.xml
+Host: https://la8casino.vercel.app
